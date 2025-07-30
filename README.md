@@ -1,11 +1,11 @@
 
 
-# Bem-vindx, eu sou a  Evelyn!
+# Bem-vindos, eu sou a  Evelyn!
 ### Pode me chamar de Eve, se quiser 🥰
-<i>Tenho 23 anos e aqui estou eu mergulhando de cabeça no mundo da tecnologia.</i>
+<i>Tenho 26 anos e aqui estou eu continuando minha trajetória no TI.</i>
 <br>
 
-#### ✨ Aqui embaixo, você pode conhecer mais sobre mim e sobre minhas skills! Da uma olhadinha. ✨
+#### ✨ Aqui embaixo, você pode conhecer mais sobre mim e sobre minhas skills! Dá uma olhadinha. ✨
 
 <br>
 
@@ -21,6 +21,6 @@
 <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img aling="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img aling="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img aling="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img aling="center" alt="UNITY" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img aling="center" alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </div>
 
-### ✨ Eu sou completamente apaixonada por tecnologia. Quero estar nessa atuando nessa área hoje e pelos próximos anos! 😊
+### ✨ Eu sou completamente apaixonada por tecnologia. E também sou bem ambiciosa. Quero subir no mundo tech enquanto o infinito permitir.
 <br>
- <i> Se precisar, por favor, me contate por e-mail: gaby.nascimento.rk@gmail.com </i> 💚
+ <i> Se precisar, por favor, me contate por e-mail: evemelo1004@gmail.com </i> 💚
