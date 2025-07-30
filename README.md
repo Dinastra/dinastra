@@ -1,7 +1,7 @@
 
 
 # Bem-vindos, eu sou a  Evelyn!
-### Pode me chamar de Eve, se quiser 🖤
+### Pode me chamar de Eve, se quiser 🩶
 <i>Tenho 26 anos e aqui estou eu continuando minha trajetória no TI.</i>
 <br>
 
