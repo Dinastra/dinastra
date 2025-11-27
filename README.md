@@ -1,26 +1,102 @@
+<!-- BANNER (cole o link do GIF aqui) -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/98/66/2f/98662f992176166d58ff5a1229431bcf.gif" alt="Akali LoL dev vibe" width="520">
+</p>
 
+<h1 align="center">✨ Oi, eu sou a Evelyn (Eve). Me chama de Dinastra se quiser, finge que é meu nome artísico rsrs ✨</h1>
 
-# Bem-vindos, eu sou a  Evelyn!
-### Pode me chamar de Eve, se quiser 🩶
-<i>Tenho 26 anos e aqui estou eu continuando minha trajetória no TI.</i>
-<br>
+<p align="center">
+  UX/UI Designer & Front-end em formação • Python como diferencial • Flutter explorando o mobile (e adorando)
+</p>
 
-#### ✨ Aqui embaixo, você pode conhecer mais sobre mim e sobre minhas skills! Dá uma olhadinha. ✨
+---
 
-<br>
+## 🌐 Conecte-se comigo
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelyndemelo/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evelynfreur/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/evelynfreur) [![Deviantart](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/dinastra)
+<p align="center">
+  <a href="https://wa.me/55SEUNUMEROCOMDDD" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/SEU-USUARIO-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-![Dinastra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinastra&show_icons=true&theme=panda) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinastra&layout=compact)](https://github.com/dinastra)
+---
 
+## 🎨 Portfólio UX/UI
 
-## ✨ Tecnologias que eu mais utilizo! ✨
+<p align="center">
+  <a href="https://hurricane-pegasus-eb8.notion.site/UX-UI-Design-2a9abf09dd7b8162b2f1e08160db9663?pvs=74" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Portfólio%20UX/UI-black?style=for-the-badge&logo=notion"/>
+  </a>
+</p>
 
-<div style="display: inline-block">
-<br>
-<img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img aling="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img aling="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img aling="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img aling="center" alt="UNITY" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img aling="center" alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-</div>
+---
 
-### ✨ Eu sou completamente apaixonada por tecnologia. E também sou bem ambiciosa. Quero subir no mundo tech enquanto o infinito permitir.
-<br>
- <i> Se precisar, por favor, me contate por e-mail: evemelo1004@gmail.com </i> 💚
+## 💫 Sobre mim
+
+<p align="center">
+  <!-- GIF pequeno (cole o link aqui) -->
+  <img src="https://i.redd.it/fi92h6fsyfw51.gif" width="220" alt="Ahri LoL coding">
+</p>
+
+- 🎨 Meu foco é **UX/UI Design** e **Front-end moderno** (React + TypeScript)
+- 🧠 Estudo **Python, Dados e IA** para dar peso técnico
+- 📱 Explorando **Flutter**
+- 🎮 Amo games e anime — isso inspira minha estética e interfaces
+- 🎓 Estou em formação em **Análise e Desenvolvimento de Sistemas (ADS)** e encontrei meu lugar no que envolve tecnologia e criatividade.
+- 🎨 Sou fissurada por **UX/UI Design** e estou constantemente criando novos projetos para enriquecer meu portfólio.
+- 💻 No **Front-end**, amo transformar interfaces em experiências vivas: animações, microinterações e telas que sejam não só funcionais, mas visualmente únicas.
+- 🧠 Também me fascina o lado de **back-end e Inteligência Artificial**, especialmente quando consigo conectar lógica, dados e experiência do usuário.
+- 🎮 Estou começando a desenvolver um **game em pixel art na Godot**, unindo narrativa, estética e mecânicas simples.
+- 📚 Escrevo um **livro** no meu tempo livre, o que alimenta ainda mais minha visão de storytelling, worldbuilding e criação de experiências imersivas.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinastra&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinastra&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🧪 Projeto em destaque
+
+🔹 **LLM Resumidor de Textos (Python)**  
+👉 https://github.com/Dinastra/llm-resumidor-python
+
+---
+
+## 🛠️ Techs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,react,ts,js,vue,python,flutter,git,github&theme=dark"/>
+</p>
+
+---
+
+## 🌱 Agora estudando
+- Bootcamp Front-end
+- Python & Dados
+- UX/UI
+- IA & LLMs
+- Flutter
+
+---
+
+## ✉️ Contato
+📧 evemelo1004@gmail.com
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/68/b5/d6/68b5d6b8146222f750f1820a06a487f4.gif" width="260" alt="Thanks gif">
+</p>
+
+<p align="center">
+  <i>Design, código e evolução constante.</i>
+</p>
