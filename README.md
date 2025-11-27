@@ -39,7 +39,9 @@
 
 ## 💫 Sobre mim
 
-<p align="center"><img src="https://i.pinimg.com/originals/87/95/d9/8795d9ec9cf10257ab828cc705a169d3.gif" alt="Leblanc LoL dev vibe" width="420"></p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/98/66/2f/98662f992176166d58ff5a1229431bcf.gif" alt="Akali LoL dev vibe" width="520">
+</p>
 
 - 🎨 Meu foco é **UX/UI Design** e **Front-end moderno** (React + TypeScript)
 - 🧠 Estudo **Python, Dados e IA** para dar peso técnico
