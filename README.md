@@ -40,7 +40,7 @@
 ## 💫 Sobre mim
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1e/40/d2/1e40d24153f5a31a8c554451d00365fc.gif" alt="Jhin LoL dev vibe" width="520">
+  <img src="https://i.pinimg.com/originals/1e/40/d2/1e40d24153f5a31a8c554451d00365fc.gif" alt="Zoe LoL dev vibe" width="620">
 </p>
 
 - 🎨 Meu foco é **UX/UI Design** e **Front-end moderno** (React + TypeScript)
