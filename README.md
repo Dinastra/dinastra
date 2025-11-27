@@ -41,7 +41,7 @@
 
 <p align="center">
   <!-- GIF pequeno (cole o link aqui) -->
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14f93389-f0c8-4f1c-a732-2a8efb4a8867/dbmoblw-d6f63d44-1d3f-44ed-a50e-e3a85b4b25f9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNGY5MzM4OS1mMGM4LTRmMWMtYTczMi0yYThlZmI0YTg4NjcvZGJtb2Jsdy1kNmY2M2Q0NC0xZDNmLTQ0ZWQtYTUwZS1lM2E4NWI0YjI1ZjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EXku2yW4hucNa3dzL_UjO1ZqwdcmTyFngPCc3mdzecI" width="220" alt="Ahri LoL coding">
+ <img src="https://i.pinimg.com/originals/98/66/2f/98662f992176166d58ff5a1229431bcf.gif" alt="Akali LoL dev vibe" width="320">
 </p>
 
 - 🎨 Meu foco é **UX/UI Design** e **Front-end moderno** (React + TypeScript)
