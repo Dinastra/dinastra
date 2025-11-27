@@ -1,4 +1,4 @@
-<!-- BANNER (cole o link do GIF aqui) -->
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/98/66/2f/98662f992176166d58ff5a1229431bcf.gif" alt="Akali LoL dev vibe" width="520">
 </p>
@@ -40,8 +40,8 @@
 ## 💫 Sobre mim
 
 <p align="center">
-  <!-- GIF pequeno (cole o link aqui) -->
- <img src="https://i.pinimg.com/originals/98/66/2f/98662f992176166d58ff5a1229431bcf.gif" alt="Akali LoL dev vibe" width="320">
+
+ <img src="https://64.media.tumblr.com/74f6763f619d99d066503cf31b13bf3d/e19c98facb6e3e8f-88/s540x810/a2cb430d1cacccc87c1eb28223d1f12d3749f466.gif" alt="Akali LoL dev vibe" width="420">
 </p>
 
 - 🎨 Meu foco é **UX/UI Design** e **Front-end moderno** (React + TypeScript)
