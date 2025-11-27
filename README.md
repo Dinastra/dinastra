@@ -40,7 +40,7 @@
 ## 💫 Sobre mim
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/98/66/2f/98662f992176166d58ff5a1229431bcf.gif" alt="Akali LoL dev vibe" width="520">
+  <img src="https://i.pinimg.com/1200x/eb/38/c8/eb38c81b6ce8d518743e89af4784f146.jpg" alt="Leblanc LoL dev vibe" width="520">
 </p>
 
 - 🎨 Meu foco é **UX/UI Design** e **Front-end moderno** (React + TypeScript)
