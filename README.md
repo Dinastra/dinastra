@@ -40,7 +40,7 @@
 ## 💫 Sobre mim
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/98/66/2f/98662f992176166d58ff5a1229431bcf.gif" alt="Akali LoL dev vibe" width="520">
+  <img src="lbgif.gif" alt="Leblanc LoL dev vibe" width="420">
 </p>
 
 - 🎨 Meu foco é **UX/UI Design** e **Front-end moderno** (React + TypeScript)
@@ -93,7 +93,7 @@
 📧 evemelo1004@gmail.com
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/68/b5/d6/68b5d6b8146222f750f1820a06a487f4.gif" width="260" alt="Thanks gif">
+  <img src="https://i.pinimg.com/originals/68/b5/d6/68b5d6b8146222f750f1820a06a487f4.gif" width="360" alt="Thanks gif">
 </p>
 
 <p align="center">
