@@ -93,7 +93,7 @@
 📧 evemelo1004@gmail.com
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b2/ad/c3/b2adc30f9b2c32b3dc0d7d4411e5018b.gif" width="480" alt="Thanks gif">
+  <img src="https://i.pinimg.com/originals/4b/c2/29/4bc22987c532f8377674abaf0f852f6d.gif" width="480" alt="Thanks gif">
 </p>
 
 <p align="center">
