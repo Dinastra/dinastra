@@ -1,8 +1,5 @@
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpidW5qaHhncXQzeXJ3MHBiajh1Z3hycDZycTZ2cHRweWFsbHVzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9Hp11CCo9T2cPS/giphy.gif" alt="Akali LoL dev vibe" width="520">
-</p>
-<p align="center">
   <img src="https://i.pinimg.com/originals/98/66/2f/98662f992176166d58ff5a1229431bcf.gif" alt="Akali LoL dev vibe" width="520">
 </p>
 
