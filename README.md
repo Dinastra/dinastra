@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/98/66/2f/98662f992176166d58ff5a1229431bcf.gif" alt="Akali LoL dev vibe" width="520">
+  <img src="https://i.pinimg.com/originals/68/b5/d6/68b5d6b8146222f750f1820a06a487f4.gif" alt="Xayah LoL dev vibe" width="720">
 </p>
 
 <h1 align="center">✨ Oi, eu sou a Evelyn (Eve). Me chama de Dinastra se quiser, finge que é meu nome artísico rsrs ✨</h1>
@@ -93,7 +93,7 @@
 📧 evemelo1004@gmail.com
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/68/b5/d6/68b5d6b8146222f750f1820a06a487f4.gif" width="360" alt="Thanks gif">
+  <img src="https://i.pinimg.com/originals/f1/12/7b/f1127bc5f901c1189727984644b48f2c.gif" width="360" alt="Thanks gif">
 </p>
 
 <p align="center">
