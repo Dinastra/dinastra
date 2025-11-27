@@ -93,7 +93,7 @@
 📧 evemelo1004@gmail.com
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4b/c2/29/4bc22987c532f8377674abaf0f852f6d.gif" width="480" alt="Thanks gif">
+  <img src="https://i.pinimg.com/originals/1e/40/d2/1e40d24153f5a31a8c554451d00365fc.gif" alt="Zoe LoL dev vibe" width="620">
 </p>
 
 <p align="center">
