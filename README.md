@@ -56,12 +56,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinastra&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinastra&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dinastra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1"
+    alt="Estatísticas da Dinastra"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dinastra&layout=compact&theme=tokyonight&hide_border=true&v=1"
+    alt="Linguagens mais usadas pela Dinastra"
+    height="160"
+  />
 </p>
+
 
 ---
 
